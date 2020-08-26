@@ -1,35 +1,35 @@
 ### Let's play tic tac toe
 <div>
-    <a href="">
-        <img src="empty.png" width="100"/>
+    <a href="http://localhost:8000/setPoint/0/0">
+        <img src="http://localhost:8000/getPoint/0/0" width="100"/>
     </a>
     <a href="">
-        <img src="empty.png" width="100"/>
+        <img src="http://localhost:8000/getPoint/0/1" width="100"/>
     </a>
     <a href="">
-        <img src="empty.png" width="100"/>
-    </a>
-</div>
-<div>
-    <a href="">
-        <img src="empty.png" width="100"/>
-    </a>
-    <a href="">
-        <img src="empty.png" width="100"/>
-    </a>
-    <a href="">
-        <img src="empty.png" width="100"/>
+        <img src="http://localhost:8000/getPoint/0/2" width="100"/>
     </a>
 </div>
 <div>
     <a href="">
-        <img src="empty.png" width="100"/>
+        <img src="http://localhost:8000/getPoint/1/0" width="100"/>
     </a>
     <a href="">
-        <img src="empty.png" width="100"/>
+        <img src="http://localhost:8000/getPoint/1/1" width="100"/>
     </a>
     <a href="">
-        <img src="empty.png" width="100"/>
+        <img src="http://localhost:8000/getPoint/1/2" width="100"/>
+    </a>
+</div>
+<div>
+    <a href="">
+        <img src="http://localhost:8000/getPoint/2/0" width="100"/>
+    </a>
+    <a href="">
+        <img src="http://localhost:8000/getPoint/2/1" width="100"/>
+    </a>
+    <a href="">
+        <img src="http://localhost:8000/getPoint/2/2" width="100"/>
     </a>
 </div>
 <!--
