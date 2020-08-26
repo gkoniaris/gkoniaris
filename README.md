@@ -1,34 +1,34 @@
 ### Let's play tic tac toe
 <div>
-    <a href="http://localhost:8000/setPoint/0/0">
+    <a href="https://23f250f60db1.ngrok.io/setPoint/0/0">
         <img src="https://23f250f60db1.ngrok.io/getPoint/0/0" width="100"/>
     </a>
-    <a href="">
+    <a href="https://23f250f60db1.ngrok.io/setPoint/0/1">
         <img src="https://23f250f60db1.ngrok.io/getPoint/0/1" width="100"/>
     </a>
-    <a href="">
+    <a href="https://23f250f60db1.ngrok.io/setPoint/0/2">
         <img src="https://23f250f60db1.ngrok.io/getPoint/0/2" width="100"/>
     </a>
 </div>
 <div>
-    <a href="">
+    <a href="https://23f250f60db1.ngrok.io/setPoint/1/0">
         <img src="https://23f250f60db1.ngrok.io/getPoint/1/0" width="100"/>
     </a>
-    <a href="">
+    <a href="https://23f250f60db1.ngrok.io/setPoint/1/1">
         <img src="https://23f250f60db1.ngrok.io/getPoint/1/1" width="100"/>
     </a>
-    <a href="">
+    <a href="https://23f250f60db1.ngrok.io/setPoint/1/2">
         <img src="https://23f250f60db1.ngrok.io/getPoint/1/2" width="100"/>
     </a>
 </div>
 <div>
-    <a href="">
+    <a href="https://23f250f60db1.ngrok.io/setPoint/2/0">
         <img src="https://23f250f60db1.ngrok.io/getPoint/2/0" width="100"/>
     </a>
-    <a href="">
+    <a href="https://23f250f60db1.ngrok.io/setPoint/2/1">
         <img src="https://23f250f60db1.ngrok.io/getPoint/2/1" width="100"/>
     </a>
-    <a href="">
+    <a href="https://23f250f60db1.ngrok.io/setPoint/2/2">
         <img src="https://23f250f60db1.ngrok.io/getPoint/2/2" width="100"/>
     </a>
 </div>
