@@ -1,35 +1,35 @@
 ### Let's play tic tac toe
 <div>
-    <iframe href="https://gkoniaris.gr/projects/tictactoe/setPoint/0/0">
-        <iframe src="https://gkoniaris.gr/projects/tictactoe/getPoint/0/0" width="100"/>
+    <a href="https://gkoniaris.gr/projects/tictactoe/setPoint/0/0">
+        <img src="https://gkoniaris.gr/projects/tictactoe/getPoint/0/0" width="100"/>
     </a>
     <a href="https://gkoniaris.gr/projects/tictactoe/setPoint/0/1">
-        <iframe src="https://gkoniaris.gr/projects/tictactoe/getPoint/0/1" width="100"/>
+        <img src="https://gkoniaris.gr/projects/tictactoe/getPoint/0/1" width="100"/>
     </a>
     <a href="https://gkoniaris.gr/projects/tictactoe/setPoint/0/2">
-        <iframe src="https://gkoniaris.gr/projects/tictactoe/getPoint/0/2" width="100"/>
+        <img src="https://gkoniaris.gr/projects/tictactoe/getPoint/0/2" width="100"/>
     </a>
 </div>
 <div>
     <a href="https://gkoniaris.gr/projects/tictactoe/setPoint/1/0">
-        <iframe src="https://gkoniaris.gr/projects/tictactoe/getPoint/1/0" width="100"/>
+        <img src="https://gkoniaris.gr/projects/tictactoe/getPoint/1/0" width="100"/>
     </a>
     <a href="https://gkoniaris.gr/projects/tictactoe/setPoint/1/1">
-        <iframe src="https://gkoniaris.gr/projects/tictactoe/getPoint/1/1" width="100"/>
+        <img src="https://gkoniaris.gr/projects/tictactoe/getPoint/1/1" width="100"/>
     </a>
     <a href="https://gkoniaris.gr/projects/tictactoe/setPoint/1/2">
-        <iframe src="https://gkoniaris.gr/projects/tictactoe/getPoint/1/2" width="100"/>
+        <img src="https://gkoniaris.gr/projects/tictactoe/getPoint/1/2" width="100"/>
     </a>
 </div>
 <div>
     <a href="https://gkoniaris.gr/projects/tictactoe/setPoint/2/0">
-        <iframe src="https://gkoniaris.gr/projects/tictactoe/getPoint/2/0" width="100"/>
+        <img src="https://gkoniaris.gr/projects/tictactoe/getPoint/2/0" width="100"/>
     </a>
     <a href="https://gkoniaris.gr/projects/tictactoe/setPoint/2/1">
-        <iframe src="https://gkoniaris.gr/projects/tictactoe/getPoint/2/1" width="100"/>
+        <img src="https://gkoniaris.gr/projects/tictactoe/getPoint/2/1" width="100"/>
     </a>
     <a href="https://gkoniaris.gr/projects/tictactoe/setPoint/2/2">
-        <iframe src="https://gkoniaris.gr/projects/tictactoe/getPoint/2/2" width="100"/>
+        <img src="https://gkoniaris.gr/projects/tictactoe/getPoint/2/2" width="100"/>
     </a>
 </div>
 <!--
