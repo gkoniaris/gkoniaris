@@ -24,7 +24,10 @@ const game = [
 
 app.get('/getPoint/:x/:y', (req, res) => {
   res.header("Access-Control-Allow-Origin", "*");
-
+  res.header('Cache-Control', 'private, no-cache, no-store, must-revalidate');
+  res.header('Expires', '-1');
+  res.header('Pragma', 'no-cache');
+  
   const filename = game[req.params.y][req.params.x]
 
   return res.sendFile(__dirname + '/images/' + filename + '.png')
